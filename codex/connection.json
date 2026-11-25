@@ -1,0 +1,7 @@
+{
+  "serverName": "complete-training-dj",
+  "url": "https://lbdqvqsysuagpzohllyj.supabase.co/functions/v1/ct-pilot/mcp",
+  "clientId": "9e13687a-659c-4f26-b148-781ad33846cb",
+  "callbackUrl": "http://127.0.0.1:8751/callback/R3rIRgv_D0ht",
+  "callbackPort": 8751
+}
